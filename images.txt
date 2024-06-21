@@ -7,5 +7,8 @@ honmashironeko/arl-docker-all
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 centos:8.4.2105
+ki9mu/arl-ki9mu:v3.0.0
+mongo:4.0.27
+ki9mu/shadow-rabbitmq:latest
 
 
